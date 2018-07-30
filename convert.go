@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+//Don’t use floating point numbers for money.
 func main() {
 	var x float32
 	x = 80917.65
