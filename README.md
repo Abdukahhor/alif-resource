@@ -46,3 +46,8 @@ http://localhost/displayFile?filename=/etc/passwd
 * Fuzzing a network service
 
 * Base64 encoding data
+
+https://golanglibs.com/
+
+https://www.owasp.org/index.php/Top_10-2017_Top_10
+
